@@ -1,9 +1,6 @@
-/build/vs2015/*
-!/build/vs2015/muron.sln
-!/build/vs2015/muron.vcxproj
-!/build/vs2015/muron.vcxproj.filters
-!/build/vs2015/deps
-/build/vs2015/.vs/*
-
+/build/
+/src/sera.h
+/src/sera.c
+/src/test_sera.cpp
 *.o
 *.obj
